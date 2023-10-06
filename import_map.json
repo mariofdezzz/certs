@@ -1,0 +1,8 @@
+{
+  "imports": {
+    "/": "./src/",
+    "./": "./",
+    "std/": "https://deno.land/std@0.203.0/",
+    "toruk": "https://deno.land/x/toruk@0.3.0/mod.ts"
+  }
+}
